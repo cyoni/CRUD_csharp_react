@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 3,
+    "FirstName": "Yoni",
+    "LastName": "Cohen",
+    "Email": "abc@aaa.com",
+    "Phone": "0541212548",
+    "Password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "IsValid": true
+  },
+  {
+    "Id": 4,
+    "FirstName": "Emily",
+    "LastName": "Brown",
+    "Email": "emilywilson@example.com",
+    "Phone": "0535551414",
+    "Password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "IsValid": true
+  },
+  {
+    "Id": 7,
+    "FirstName": "Andrew",
+    "LastName": "Davis",
+    "Email": "andrewdavis@example.com",
+    "Phone": "0512345678",
+    "Password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "IsValid": true
+  },
+  {
+    "Id": 10,
+    "FirstName": "Emma",
+    "LastName": "Taylor",
+    "Email": "emmataylor@example.com",
+    "Phone": "0522990000",
+    "Password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "IsValid": true
+  }
+]
